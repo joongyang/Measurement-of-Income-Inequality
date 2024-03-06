@@ -2,7 +2,7 @@
 
 This repository is for Professor Joongyang Park's research about the measurement of income inequality.
 Professor Joongyang Park published three articles about income inequality measurement.
-The article published in 2024 is the most important because the currently available income inequality indexes are invalidated.
+The article published in 2024 is the most important because most of the currently available income inequality indexes are invalidated.
 This repository contains unpublished research and additional explanations about the published articles.
 
 1. Joongyang Park, YoungSoon Kim, and Seon-ja Heo (2018). Dual-Index Measurement of Income Inequality, Bulletin of Economic Research, 70:3, pp. 277-284. ()[https://onlinelibrary.wiley.com/doi/abs/10.1111/boer.12141]
