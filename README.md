@@ -11,6 +11,6 @@ This repository contains unpublished research and additional explanations about 
 Journal of Economic Interaction and Coordination, 16, pp. 309–322. ()[https://link.springer.com/article/10.1007/s11403-020-00295-1]
 
 3. Youngsoon Kim, Joongyang Park, and Ae-Jin Ju (2024). New Approach to Measuring Income Inequality, Heliyon, 10:4, pp. 
-()[10.1016/j.heliyon.2024.e26482]
+()[https://10.1016/j.heliyon.2024.e26482]
 
 
