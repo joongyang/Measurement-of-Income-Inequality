@@ -15,6 +15,14 @@ The above definition corresponds to the following definition.
 
  Cowell (2011, p. 1)[https://academic.oup.com/book/11568] defines inequality as a departure from equality.
 
+Many references define inequality as the dispersion of a distribution, whether it be income, consumption, or some other welfare indicator or attribute of a population.
+This definition causes misunderstanding.
+Equality is a distribution with zero dispersion.
+Inequality is a distribution with non-zero dispersion.
+
+
+ 
+
  
 
 
