@@ -9,3 +9,5 @@ We refer to $\mathbf{y}$ as the income distribution of a population.
 $\mathbf{y}_{pe} = \left( \mu_y, \mu_y, \dots, \mu_y \right) $ is an income distribution in which the total income is evenly distributed over $n$ individuals.
 $\mathbf{y}_{pe}$ represents equality corresponding to $\mathbf{y}$.
 
+When $\mathbf{y}$ is not equal to $\mathbf{y}_{pe}$, there is income inequality in $\mathbf{y}$.
+
