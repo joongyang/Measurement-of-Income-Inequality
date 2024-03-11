@@ -15,3 +15,4 @@ When $\mathbf{y}$ is not equal to $\mathbf{y}_{pe}$, there is income inequality 
 
 Therefore, the degree of income inequality should involve a comparison between $\mathbf{y}$ and $\mathbf{y}_{pe}$.
 
+[Next](./RUDIncome.md)
