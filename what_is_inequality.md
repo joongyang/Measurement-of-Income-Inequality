@@ -21,6 +21,8 @@ Inequality is non-equality.
 Therefore, inequality depends on the concept of equality.
 
 
+(Next)[./Degree of Inequality.md]
+
 
 
 
