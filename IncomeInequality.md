@@ -5,7 +5,7 @@ Denote ordered income values of $n$ individuals by $y_1 \le y_2 \le y_3 \le \dot
 
 $S_y = \sum_{i=1}^n y_i$ and $\mu_y = S_y / n$ are the total income and mean income, respectively.
 Denote the distribution of $S_y$ over $n$ individuals by $\mathbf{y} = \left( y_1, y_2, \dots, y_n \right)$.
-We refer to $\mathbf{y}$ as the income distribution of a population.
+We refer to $\mathbf{y}$ as the income distribution.
 
 When $S_y$ is evenly distributed over $n$ individuals, the income distribution is $\mathbf{y}_{pe} = \left( \mu_y, \mu_y, \dots, \mu_y \right)$.
 
