@@ -21,7 +21,7 @@ Inequality is non-equality.
 Therefore, inequality depends on the concept of equality.
 
 
-(Next)[./Degree of Inequality.md]
+(Next)[[./Degree of Inequality.md](https://github.com/joongyang/Measurement-of-Income-Inequality/blob/main/Degree%20of%20Inequality.md)https://github.com/joongyang/Measurement-of-Income-Inequality/blob/main/Degree%20of%20Inequality.md]
 
 
 
