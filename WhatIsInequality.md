@@ -18,7 +18,8 @@ defines inequality as the state of not being equal, especially in status, rights
 Equality is the state of being equal.
 Equality is the quality of being equal or even.
 Inequality is non-equality.
+Inequality is the non-existence of equality.
 Therefore, inequality depends on the concept of equality.
-
+We should define equality before inequality.
 
 [Next](./IncomeInequality.md)
