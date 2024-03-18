@@ -12,7 +12,6 @@ When $S_y$ is evenly distributed over $n$ individuals, we represent the correspo
 $\mathbf{y}_{pe}$ represents equality for $\mathbf{y}$.
 
 When $\mathbf{y}$ is not equal to $\mathbf{y}_{pe}$, there is income inequality in $\mathbf{y}$.
-
 Therefore, income inequality of $\mathbf{y}$ is a relationship of $\mathbf{y}$ with $\mathbf{y}_{pe}$.
 
 We can not talk about the income inequality of $\mathbf{y}$ without $\mathbf{y}_{pe}$.
