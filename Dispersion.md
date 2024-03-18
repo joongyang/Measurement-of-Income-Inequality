@@ -5,7 +5,7 @@ Dispersion: The amount by which a set of observations deviate from their mean. W
 
 Income inequality metrics simply provide a system of measurement used to determine the dispersion of incomes. [Wikipedia](https://en.wikipedia.org/wiki/Income_inequality_metrics)
 
-[Cowell (2011)]([https://www.amazon.com/Measuring-Inequality-Economics-Perspectives-Economic/dp/019959404X?asin=019959404X&revisionId=&format=4&depth=1](https://global.oup.com/academic/product/measuring-inequality-9780199594047)) defines an inequality measure as a scalar numerical representation of interpersonal differences in income within a given population.
+ An inequality measure is a scalar numerical representation of interpersonal differences in income within a given population. [Cowell (2011)](https://www.amazon.com/Measuring-Inequality-Economics-Perspectives-Economic/dp/019959404X?asin=019959404X&revisionId=&format=4&depth=1](https://global.oup.com/academic/product/measuring-inequality-9780199594047)
 
 
 When $\mathbf{y}$ is not equal to $\mathbf{y}_{pe}$, there is income inequality in $\mathbf{y}$.
