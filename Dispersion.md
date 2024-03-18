@@ -14,12 +14,17 @@ $\mathbf{y}$ has non-zero dispersion, while $\mathbf{y}_{pe}$ has zero dispersio
 
 Non-zero dispersion implies the existence of inequality.
 
-However, the dispersion of $\mathbf{y}$ is not the discrepancy between  $\mathbf{y}$ and $\mathbf{y}_{pe}$.
+However, the magnitude of dispersion is not the degree of income inequality.
 
-The dispersion of $\mathbf{y}$ represents the differences $y_i$'s in $\mathbf{y}$.
+
+The dispersion of $\mathbf{y}$ represents the differences between $y_i$'s in $\mathbf{y}$.
 
 The dispersion of $\mathbf{y}$ has nothing to do with $\mathbf{y}_{pe}$.
 
+The dispersion of $\mathbf{y}$ does not compare $\mathbf{y}$ and $\mathbf{y}_{pe}$.
+
 The dispersion of $\mathbf{y}$ does not show a relationship of $\mathbf{y}$ with $\mathbf{y}_{pe}$.
 
-Income inequality is a property between two income distributions, $\mathbf{y}$ with $\mathbf{y}_{pe}$.
+Therefore, any income inequality index measuring the dispersion of $\mathbf{y}$ does not represent income inequality properly.
+
+[Next](./RUDIncome.md)
