@@ -20,4 +20,4 @@ We can not talk about the income inequality of $\mathbf{y}$ without $\mathbf{y}_
 
 In addition, the degree of income inequality should involve a comparison between $\mathbf{y}$ and $\mathbf{y}_{pe}$.
 
-[Next](./RUDIncome.md)
+[Next](./Dispersion.md)
