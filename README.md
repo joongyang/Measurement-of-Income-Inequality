@@ -1,7 +1,7 @@
 # Measurement of Income Inequality
 
 This repository is for Professor Joongyang Park's research about the measurement of income inequality.
-Professor Joongyang Park published three articles about income inequality measurement.
+Professor Joongyang Park published three articles about the income inequality measurement.
 The article published in 2024 is the most important because it invalidates most of the currently available income inequality indexes.
 This repository contains additional explanations about the published articles and unpublished research.
 
