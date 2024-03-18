@@ -10,7 +10,7 @@ We refer to $\mathbf{y}$ as the income distribution.
 
 When $S_y$ is evenly distributed over $n$ individuals, we represent the corresponding income distribution as $\mathbf{y}_{pe} = \left( \mu_y, \mu_y, \dots, \mu_y \right)$.
 
-$\mathbf{y}_{pe}$ represents equality for $\mathbf{y}$.
+$\mathbf{y}_{pe}$ represents equality for a population with $n$ individuals and the total income $S_y$.
 
 When $\mathbf{y}$ is not equal to $\mathbf{y}_{pe}$, there is income inequality in $\mathbf{y}$.
 
