@@ -13,5 +13,5 @@ Journal of Economic Interaction and Coordination, 16, pp. 309–322. [https://li
 3. Youngsoon Kim, Joongyang Park, and Ae-Jin Ju (2024). New Approach to Measuring Income Inequality, Heliyon, 10:4, pp. 
 [https://doi.org/10.1016/j.heliyon.2024.e26482](https://doi.org/10.1016/j.heliyon.2024.e26482)
 
-[Next](https://github.com/joongyang/Measurement-of-Income-Inequality/blob/main/what_is_inequality.md)
+[Next](https://github.com/joongyang/Measurement-of-Income-Inequality/blob/main/WhatIsInequality.md)
 
