@@ -1,4 +1,4 @@
-# Negtive Income
+# Negtive income
 
 **Negative income** typically refers to a situation where an individual or entity's total expenses exceed their total income, resulting in a net loss.
 It is also commonly known as a "negative taxable income" or "tax loss."
@@ -8,7 +8,7 @@ Another example is an individual who has more deductions and expenses than his/h
 This may happen if the person has a low-paying job or is unemployed and has significant medical expenses or other deductions.
 Tanaka, Camerer, and Nguyen (2010) and Damon, Di Falco, and Kohlin (2011) show that individuals in Vietnam and Ethiopia experienced negative incomes due to droughts.
 
-# Measurement of Income Inequality When There Are Negative Incomes
+# Measurement of income inequality in the presence of negative incomes
 
 Chen, Tsaur, and Rhai (1982) renormalize and reformulate the Gini coefficient for the distribution with some negative incomes.
 Berrebi and Silber (1985) correct and extend Chen, Tsaur, and Rhai (1982).
