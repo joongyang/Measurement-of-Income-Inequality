@@ -1,6 +1,7 @@
 # What is income?
 
-**Income** is the consumption and saving opportunity gained by an entity within a specified timeframe, which is generally expressed in monetary terms.
+**Income** is the consumption and saving opportunity gained by an entity within a specified timeframe.
+Income is generally expressed in monetary terms.
 Income is difficult to define conceptually and may be different across fields.
 For example, a person's income in an economic sense may be different from their income as defined by law.
 
