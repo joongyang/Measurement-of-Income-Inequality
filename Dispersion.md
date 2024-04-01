@@ -27,4 +27,4 @@ The dispersion of $\mathbf{y}$ does not show a relationship of $\mathbf{y}$ with
 
 Therefore, any income inequality index measuring the dispersion of $\mathbf{y}$ does not represent income inequality properly.
 
-[Next](./WhatIsIncomne.md)
+[Next](./WhatIsIncome.md)
