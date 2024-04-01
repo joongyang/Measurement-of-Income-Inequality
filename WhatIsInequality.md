@@ -4,6 +4,7 @@ Income inequality is a subconcept of economic inequality.
 Economic inequality is a subconcept of inequality.
 Therefore, it is reasonable to begin with the definition of inequality.
 Many references define inequality by mentioning subconcepts such as economic and income inequality.
+Other subconcepts are gender inequality, racial inequality, educational inequality, social inequality, health equity, and so on.
 Here are some definitions of inequality without mentioning subconcepts.
 
 1. *Concepts of inequality* [2015](https://www.un.org/en/development/desa/policy/wess/wess_dev_issues/dsp_policy_01.pdf)
