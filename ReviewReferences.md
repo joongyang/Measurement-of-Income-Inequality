@@ -42,6 +42,19 @@
             *This survey paper does not consider what inequality is.
              This paper assumes that the currently available inequality indexes measure inequality.*
 
+2. Cowell, F. (1998). Measurement of Inequality, Handbook of Income Distribution, edited by Atkinson and Bourguignon.
+
+    (1) p. 2: Figure 1 can be applied to depict the possible UD income distributions given the total UD income.
+
+    (2) The author does not distinguish between discrete and continuous distributions.
+        In most cases, the author considers that the population is finite.
+        We can not assume a continuous distribution for a finite population.
+        We should note that the CDF and QF for a discrete distribution provide different information about the population.
+
+    (3) p. 17, 18: The generalized Lorenz curve and the conventional Lorenz curve (relative Lorenz curve) are defined and compared.
+
+    (4) p. 25, 26: Definition and interpretations of the Gini coefficient are well explained.
+
    
 
    
