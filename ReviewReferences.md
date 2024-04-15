@@ -55,6 +55,12 @@
 
     (4) p. 25, 26: Definition and interpretations of the Gini coefficient are well explained.
 
-   
+3. Chakravarty, S. R. (2009_).  The Measurement of Income Inequality. In: Inequality, Polarization and Poverty. Economic Studies in Inequality, Social Exclusion and Well-Being, vol 6. Springer, New York, NY. https://doi.org/10.1007/978-0-387-79253-8_1.
+
+    (1) p. 1: Given the population size and the distribution of income, the two questions that arise in a person's mind are:
+              what is the mean income and how unequally is the total income distributed among the individuals in the society?
+              Loosely speaking, income inequality represents interpersonal income differences within a given population.
+
+         (Question) Is this definition of income inequality correct?
 
    
