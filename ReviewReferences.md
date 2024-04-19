@@ -64,7 +64,7 @@
          (Question) Is this definition of income inequality correct?
    
    (2) p. 2: For a population of size $n$, a typical income distribution is a vector $x = \left( x_1, x_2, \dots, x_n \right)$,
-             where $\x_i \geq 0$ is the income of person $i$. It is assumed that no ambiguity arises with the definitions of income,
+             where $x_i \geq 0$ is the income of person $i$. It is assumed that no ambiguity arises with the definitions of income,
              income earning unit, and the reference period over which income is observed.
    
          (Question) The author assumes that the population is finite. Can the income for the finite population be continuous?
