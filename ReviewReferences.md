@@ -74,10 +74,14 @@
    (3) p. 5: In the case of complete inequality where only one person has positive income and all other persons have zero income,
              the curve runs through the horizontal axis until we reach the richest person and then it rises perpendicularly.
 
-         (Question) The concept of complete inequality depends on the assumption that the income is non-negative.
+         (Question) The concept of the complete inequality depends on the assumption that the income is non-negative.
 
    (4) p. 15: This general definition of the Lorenz curve was suggested by Gastwirth (1971).
               It applies to distributions of both discrete and continuous types.
+
+4. Foster, J. and Sen, A. (1997) On Economic Inequality. The expanded edition. Oxford University Press Inc., New York.
+
+     (1) 
 
 ### References
 
