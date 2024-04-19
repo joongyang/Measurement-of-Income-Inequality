@@ -62,5 +62,26 @@
               Loosely speaking, income inequality represents interpersonal income differences within a given population.
 
          (Question) Is this definition of income inequality correct?
+   
+   (2) p. 2: Gor a population of size $n$, a typical income distribution is a vector $x = \left( x_1, x_2, \dots, x_n \right)$,
+             where $\x_i \geq 0$ is the income of person $i$. It is assumed that no ambiguity arises with the definitions of income,
+             income earning unit, and the reference period over which income is observed.
+   
+         (Question) The author assumes that the population is finite. Can the income for the finite population be continuous?
 
+         (Question) The author assumes that the income is non-negative. Is it realistic that the income is non-negative?
+
+   (3) p. 5: In the case of complete inequality where only one person has positive income and all other persons have zero income,
+             the curve runs through the horizontal axis until we reach the richest person and then it rises perpendicularly.
+
+         (Question) The concept of complete inequality depends on the assumption that the income is non-negative.
+
+   (4) p. 15: This general definition of the Lorenz curve was suggested by Gastwirth (1971).
+              It applies to distributions of both discrete and continuous types.
+
+### References
+
+1. Gastwirth, J. L. (1971). A General Definition of the Lorenz Curve. Econometrica, 39(6), 1037–1039. https://doi.org/10.2307/1909675
+   
+3. 
    
