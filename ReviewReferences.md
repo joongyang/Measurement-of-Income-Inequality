@@ -81,7 +81,27 @@
 
 4. Foster, J. and Sen, A. (1997) On Economic Inequality. The expanded edition. Oxford University Press Inc., New York.
 
-     (1) 
+     (1) p. 2: The measures of inequality that have been proposed in the economic literature fall broadly into two categories.
+               On the one hand there are measures that try to catch the extent of inequality in some objective sense,
+               usually employing some measures of relative variation of income, and on the other there are indices
+               that try to measure inequality in terms of some normative notion of social welfare so that a higher degree of inequality
+               corresponds to a lower level of social welfare for a given total of income.
+               It is possible to argue that there are some advantages in taking the former approach, so that one can distinguish
+               between (a) 'seeing' more or less inequality, and (b) 'valuing' it more or less in ethical terms.
+               In the second approach inequality ceases to be an  objective notion and the problem of measurement
+              is enmeshed with that of ethical evaluation.
+
+          (Question) The authors mention that inequality is statistically measured by some relative dispersion measures.
+                     The authors do not know that dispersion is not equal to inequality.
+      (2) p. 5: Most statistical measures of inequality level assume a high degree of measurement,
+                usually a ratio-scale or at least an interval-scale.
+                This is true not only the so-called objective measures, but also of normative evaluation.
+
+         (Question) Is income a ratio-scale? What if income can be negative?
+
+      (3) pp. 24 - 38: The authors discuss a number of measures of inequality such as the range, the relative mean deviation,
+                the coefficient of variation, the standard deviation of logarithms, the Gini coefficient, the relative mean difference,
+                Theil's entropy measure, Dalton's measure, Atkinson's measure, etc.
 
 ### References
 
