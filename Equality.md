@@ -22,4 +22,5 @@ The above four representations suggest four measures for dispersion.
 They are respectively statistics involving $\left( y_i - \mu_y \right)$ such as variance and mean deviation, $y_n - y_1$, $\mu_y - y_1$, and $y_n - \mu_y$.
 The corresponding income distribution is not equality if any of these dispersion measures is not zero.
 That is, nonzero dispersion implies non-equality, i.e., the existence of inequality.
+
 However, we should note that dispersion does not measure the extent (degree) of inequality.
