@@ -14,13 +14,22 @@ Tanaka, Camerer, and Nguyen (2010) and Damon, Di Falco, and Kohlin (2011) show t
 
 The conventional indexes are based on the assumption that income is non-negative or positive.
 However, negative incomes are observed in reality.
+There exists an inconsistency between reality and assumption.
 The recommended remedial actions are
 
 1. to delete negative income values,
-2. to replace negative income values with zero or arbitrarily small positive values,
-3. to reformulate the conventional indexes.
+2. to replace negative income values with zero or arbitrarily small positive values.
+
+These actions adjust the data.
+Data is a collection of facts.
+Adjustment of data is no more than the distortion of reality.
+
+Instead, we should modify the unrealistic assumption.
+
+Some studies attempt to adjust the indexes.
 
 Chen, Tsaur, and Rhai (1982) renormalize and reformulate the Gini coefficient for the distribution with some negative incomes.
+
 Berrebi and Silber (1985) correct and extend Chen, Tsaur, and Rhai (1982).
 
 Raffinetti, Siletti, and Vernizzi (2017) reformulate the Gini-based inequality measures in the presence of negative income values.
@@ -28,6 +37,7 @@ Raffinetti, Siletti, and Vernizzi (2017) reformulate the Gini-based inequality m
 # Scale of income
 
 Income can take negative values.
+This implies that income is not ratio scale.
 
 
 
