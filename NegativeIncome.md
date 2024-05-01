@@ -4,15 +4,33 @@
 It is also commonly known as a "negative taxable income" or "tax loss."
 For example, if a business spends $10,000 on rent, utilities, and supplies, but only earns $8,000 in revenue, the business has a negative income of $2,000.
 This means the business is losing money.
+
 Another example is an individual who has more deductions and expenses than his/her earnings.
 This may happen if the person has a low-paying job or is unemployed and has significant medical expenses or other deductions.
+
 Tanaka, Camerer, and Nguyen (2010) and Damon, Di Falco, and Kohlin (2011) show that individuals in Vietnam and Ethiopia experienced negative incomes due to droughts.
 
-# Measurement of income inequality in the presence of negative incomes
+# How to deal with negative incomes
+
+The conventional indexes are based on the assumption that income is non-negative or positive.
+However, negative incomes are observed in reality.
+The recommended remedial actions are
+
+1. to delete negative income values,
+2. to replace negative income values with zero or arbitrarily small positive values,
+3. to reformulate the conventional indexes.
 
 Chen, Tsaur, and Rhai (1982) renormalize and reformulate the Gini coefficient for the distribution with some negative incomes.
 Berrebi and Silber (1985) correct and extend Chen, Tsaur, and Rhai (1982).
+
 Raffinetti, Siletti, and Vernizzi (2017) reformulate the Gini-based inequality measures in the presence of negative income values.
+
+# Scale of income
+
+Income can take negative values.
+
+
+
 
 ## References
 
