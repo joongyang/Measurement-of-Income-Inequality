@@ -19,7 +19,7 @@ Equality can be represented mathematically in several ways:
 An important property of equality is zero dispersion.
 If an income distribution has zero dispersion, it is equality.
 The above four representations suggest four measures for dispersion.
-They are respectively statistics involving $\left( y_i - \mu_y \right)$ such as variance, $y_n - y_1$, $\mu_y - y_1$, and $y_n - \mu_y$.
+They are respectively statistics involving $\left( y_i - \mu_y \right)$ such as variance and mean deviation, $y_n - y_1$, $\mu_y - y_1$, and $y_n - \mu_y$.
 The corresponding income distribution is not equality if any of these dispersion measures is not zero.
 That is, nonzero dispersion implies non-equality, i.e., the existence of inequality.
 However, we should note that dispersion does not measure the extent (degree) of inequality.
