@@ -42,6 +42,8 @@ We thus assume that the total income $S_y$ is positive.
 
 1. Tanaka, T., Camerer, C. F., and Nguyen, Q. (2010). Risk and Time Preferences: Linking Experimental and Household Survey Data from Vietnam. American Economic Review, 100(1), 557-571.
 2. Damon, M., Di Falco, S., and Kohlin, G. (2011). Environmental Shocks and Rates of Time Preference: A behavioural Dimension of Poverty Traps? Working Paper.
-3. CHAU-NAN CHEN, TIEN-WANG TSAUR, TONG-SHIENG RHAI (1982). THE GINI COEFFICIENT AND NEGATIVE INCOME , Oxford Economic Papers, 34(3), pp. 473–478.
+3. CHAU-NAN CHEN, TIEN-WANG TSAUR, TONG-SHIENG RHAI (1982). THE GINI COEFFICIENT AND NEGATIVE INCOME, Oxford Economic Papers, 34(3), pp. 473–478.
 4. Z. M. BERREBI, JACQUES SILBER (1985). THE GINI COEFFICIENT AND NEGATIVE INCOME: A COMMENT, Oxford Economic Papers, 37(3), pp. 525–526.
 5. Raffinetti, E., Siletti, E. and Vernizzi, A. (2017) Analyzing the Effects of Negative and Non-negative Values on Income Inequality: Evidence from the Survey of Household Income and Wealth of the Bank of Italy (2012). Social Indicator Research, 133, pp. 185–207.
+
+[Next](./Equality.md)
