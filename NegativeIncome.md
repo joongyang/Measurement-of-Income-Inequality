@@ -10,7 +10,7 @@ This may happen if the person has a low-paying job or is unemployed and has sign
 
 Tanaka, Camerer, and Nguyen (2010) and Damon, Di Falco, and Kohlin (2011) show that individuals in Vietnam and Ethiopia experienced negative incomes due to droughts.
 
-# How to deal with negative incomes
+## How to deal with negative incomes
 
 The conventional indexes are based on the assumption that income is non-negative or positive.
 However, negative incomes are observed in reality.
@@ -24,13 +24,19 @@ These actions adjust the data. Data is a collection of facts. Adjustment of data
 
 Some studies attempt to adjust the indexes. Chen, Tsaur, and Rhai (1982) renormalize and reformulate the Gini coefficient for the distribution with some negative incomes. Berrebi and Silber (1985) correct and extend Chen, Tsaur, and Rhai (1982). Raffinetti, Siletti, and Vernizzi (2017) reformulate the Gini-based inequality measures in the presence of negative income values.
 
-# Scale of income
+## Scale of income
 
 Income can take negative values.
-This implies that income is not ratio scale.
+This implies that income is not a ratio scale.
+Income is an interval scale.
+Therefore, any index involving income share $y_i / S_y$ is theoretically incorrect.
+Any index involving division by $\mu_y$ is theoretically incorrect as well.
 
+## Positive total income assumption
 
-
+The non-negative income assumption does not represent reality since negative incomes are observed in reality.
+We need a realistic assumption about income that allows negative values.
+We thus assume that the total income $S_y$ is positive.
 
 ## References
 
