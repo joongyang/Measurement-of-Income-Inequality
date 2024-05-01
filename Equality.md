@@ -25,3 +25,5 @@ The corresponding income distribution is not equality if any of these dispersion
 That is, nonzero dispersion implies non-equality, i.e., the existence of inequality.
 
 However, we should note that dispersion does not measure the extent (degree) of inequality.
+
+[Next](./InfoInequality.md)
