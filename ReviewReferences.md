@@ -17,8 +17,8 @@
 
              (Question) We want to measure inequality. Why do we have to know the SWF (social welfare function)?
 
-   (5) p. 14: The Theil "entropy" measure of inequality is derived from information theory, where the probability of an event and the informative value of a message
-             saying the event has occurred are substituted for the distribution of income shares.
+   (5) p. 14: The Theil "entropy" measure of inequality is derived from information theory, where the probability of an event and
+              the informative value of a message saying the event has occurred is substituted for the distribution of income shares.
 
              (Question) We should not consider that all the information is about inequality. Some information is about inequality, while some is about equality.
 
@@ -42,7 +42,7 @@
              (Question) This survey paper does not consider what inequality is.
              This paper assumes that the currently available inequality indexes measure inequality.
 
-2. Cowell, F. (1998). Measurement of Inequality, Handbook of Income Distribution, edited by Atkinson and Bourguignon.
+3. Cowell, F. (1998). Measurement of Inequality, Handbook of Income Distribution, edited by Atkinson and Bourguignon.
 
     (1) p. 2: Figure 1 can be applied to depict the possible UD income distributions given the total UD income.
 
@@ -55,7 +55,7 @@
 
     (4) p. 25, 26: Definition and interpretations of the Gini coefficient are well explained.
 
-3. Chakravarty, S. R. (2009_).  The Measurement of Income Inequality. In: Inequality, Polarization and Poverty. Economic Studies in Inequality, Social Exclusion and Well-Being, vol 6. Springer, New York, NY. https://doi.org/10.1007/978-0-387-79253-8_1.
+4. Chakravarty, S. R. (2009_).  The Measurement of Income Inequality. In: Inequality, Polarization and Poverty. Economic Studies in Inequality, Social Exclusion and Well-Being, vol 6. Springer, New York, NY. https://doi.org/10.1007/978-0-387-79253-8_1.
 
     (1) p. 1: Given the population size and the distribution of income, the two questions that arise in a person's mind are:
               what is the mean income and how unequally is the total income distributed among the individuals in the society?
@@ -74,30 +74,30 @@
    (3) p. 5: In the case of complete inequality where only one person has positive income and all other persons have zero income,
              the curve runs through the horizontal axis until we reach the richest person and then it rises perpendicularly.
 
-         (Question) The concept of the complete inequality depends on the assumption that the income is non-negative.
+         (Question) Complete inequality depends on the assumption that the income is non-negative.
 
    (4) p. 15: This general definition of the Lorenz curve was suggested by Gastwirth (1971).
               It applies to distributions of both discrete and continuous types.
 
-4. Foster, J. and Sen, A. (1997) On Economic Inequality. The expanded edition. Oxford University Press Inc., New York.
+5. Foster, J. and Sen, A. (1997) On Economic Inequality. The expanded edition. Oxford University Press Inc., New York.
 
      (1) p. 2: The measures of inequality that have been proposed in the economic literature fall broadly into two categories.
-               On the one hand there are measures that try to catch the extent of inequality in some objective sense,
+               On the one hand, there are measures that try to catch the extent of inequality in some objective sense,
                usually employing some measures of relative variation of income, and on the other there are indices
                that try to measure inequality in terms of some normative notion of social welfare so that a higher degree of inequality
                corresponds to a lower level of social welfare for a given total of income.
-               It is possible to argue that there are some advantages in taking the former approach, so that one can distinguish
+               It is possible to argue that there are some advantages in taking the former approach so that one can distinguish
                between (a) 'seeing' more or less inequality, and (b) 'valuing' it more or less in ethical terms.
-               In the second approach inequality ceases to be an  objective notion and the problem of measurement
+               In the second, approach inequality ceases to be an  objective notion and the problem of measurement
               is enmeshed with that of ethical evaluation.
 
           (Question) The authors mention that inequality is statistically measured by some relative dispersion measures.
                      The authors do not know that dispersion is not equal to inequality.
       (2) p. 5: Most statistical measures of inequality level assume a high degree of measurement,
-                usually a ratio-scale or at least an interval-scale.
-                This is true not only the so-called objective measures, but also of normative evaluation.
+                usually a ratio scale or at least an interval scale.
+                This is true not only the so-called objective measures but also of normative evaluation.
 
-         (Question) Is income a ratio-scale? What if income can be negative?
+         (Question) Is income a ratio scale? What if income can be negative?
 
       (3) pp. 24 - 38: The authors discuss a number of measures of inequality such as the range, the relative mean deviation,
                 the coefficient of variation, the standard deviation of logarithms, the Gini coefficient, the relative mean difference,
