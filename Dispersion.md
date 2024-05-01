@@ -12,22 +12,15 @@ Dispersion: The amount by which a set of observations deviates from their mean. 
 
 According to the above definitions, the degree of income inequality has been measured by the dispersion of $\mathbf{y}$.
 When $\mathbf{y}$ is not equal to $\mathbf{y}_{pe}$, there is income inequality in $\mathbf{y}$.
-
 $\mathbf{y}$ has non-zero dispersion, while $\mathbf{y}_{pe}$ has zero dispersion.
-
 Non-zero dispersion implies the existence of inequality.
-
 However, the magnitude of dispersion is not the degree of income inequality.
 
 
 The dispersion of $\mathbf{y}$ represents the differences between $y_i$'s in $\mathbf{y}$.
-
 The dispersion of $\mathbf{y}$ has nothing to do with $\mathbf{y}_{pe}$.
-
 The dispersion of $\mathbf{y}$ does not compare $\mathbf{y}$ and $\mathbf{y}_{pe}$.
-
 The dispersion of $\mathbf{y}$ does not show a relationship of $\mathbf{y}$ with $\mathbf{y}_{pe}$.
-
 Therefore, any income inequality index measuring the dispersion of $\mathbf{y}$ does not represent income inequality properly.
 
 [Next](./WhatIsIncome.md)
