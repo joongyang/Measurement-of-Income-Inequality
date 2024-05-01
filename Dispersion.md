@@ -8,6 +8,7 @@ Dispersion: The amount by which a set of observations deviates from their mean. 
    
 3. Loosely speaking, income inequality represents interpersonal income differences within a given population. [Chakravarty, S. R. (2009). The Measurement of Income Inequality. In: Inequality, Polarization and Poverty. Economic Studies in Inequality, Social Exclusion and Well-Being, vol 6. Springer, New York, NY.]( https://doi.org/10.1007/978-0-387-79253-8_1).
 
+4. There are measures that try to catch the extent of inequality in some objective sense, usually employing some measures of relative variation of income. [Foster, J. and Sen, A. (1997, p. 2) On Economic Inequality. The expanded edition. Oxford University Press Inc., New York.]()
 
 According to the above definitions, the degree of income inequality has been measured by the dispersion of $\mathbf{y}$.
 
