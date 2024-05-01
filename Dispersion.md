@@ -1,10 +1,10 @@
 # Dispersion of An Income Distribution
 
-Dispersion: The amount by which a set of observations deviate from their mean. When the values of a set of observations are close to their mean, the dispersion is less than when they are spread out widely from the mean. [The Cambridge Dictionary of Statistics](https://www.cambridge.org/us/universitypress/subjects/statistics-probability/statistics-and-probability-general-interest/cambridge-dictionary-statistics-4th-edition?format=HB&isbn=9780521766999) 
+Dispersion: The amount by which a set of observations deviates from their mean. When the values of a set of observations are close to their mean, the dispersion is less than when they are spread out widely from the mean. [The Cambridge Dictionary of Statistics](https://www.cambridge.org/us/universitypress/subjects/statistics-probability/statistics-and-probability-general-interest/cambridge-dictionary-statistics-4th-edition?format=HB&isbn=9780521766999) 
 
 1. Income inequality metrics simply provide a system of measurement used to determine the dispersion of incomes. [Wikipedia](https://en.wikipedia.org/wiki/Income_inequality_metrics)
 
-2. An inequality measure is a scalar numerical representation of interpersonal differences in income within a given population. [Cowell (2011)](https://global.oup.com/academic/product/measuring-inequality-9780199594047)
+2. An inequality measure is a scalar numerical representation of interpersonal differences in income within a given population. [Cowell (2011)](Cowell, Frank, Measuring Inequality, 3rd edn, London School of Economics Perspectives in Economic Analysis (Oxford, 2011; online edn, Oxford Academic, 30 Apr. 2015), https://doi.org/10.1093/acprof:osobl/9780199594030.001.0001)
    
 3. Loosely speaking, income inequality represents interpersonal income differences within a given population. [Chakravarty, S. R. (2009). The Measurement of Income Inequality. In: Inequality, Polarization and Poverty. Economic Studies in Inequality, Social Exclusion and Well-Being, vol 6. Springer, New York, NY.]( https://doi.org/10.1007/978-0-387-79253-8_1).
 
