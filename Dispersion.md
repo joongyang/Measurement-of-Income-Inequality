@@ -11,7 +11,6 @@ Dispersion: The amount by which a set of observations deviates from their mean. 
 4. There are measures that try to catch the extent of inequality in some objective sense, usually employing some measures of relative variation of income. [Foster, J. and Sen, A. (1997, p. 2) On Economic Inequality. The expanded edition. Oxford University Press Inc., New York.]()
 
 According to the above definitions, the degree of income inequality has been measured by the dispersion of $\mathbf{y}$.
-
 When $\mathbf{y}$ is not equal to $\mathbf{y}_{pe}$, there is income inequality in $\mathbf{y}$.
 
 $\mathbf{y}$ has non-zero dispersion, while $\mathbf{y}_{pe}$ has zero dispersion.
