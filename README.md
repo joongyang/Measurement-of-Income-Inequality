@@ -13,5 +13,7 @@ Journal of Economic Interaction and Coordination, 16, pp. 309–322. [https://li
 3. Youngsoon Kim, Joongyang Park, and Ae-Jin Ju (2024). New Approach to Measuring Income Inequality, Heliyon, 10:4, pp. 
 [https://doi.org/10.1016/j.heliyon.2024.e26482](https://doi.org/10.1016/j.heliyon.2024.e26482)
 
+4. Hamza M, Baek B, Park J, Kim Y (2026). Norm-based measures of inequality: A property-focused evaluation. PLoS One 21(4):e0337916. [https://doi.org/10.1371/journal.pone.0337916](https://doi.org/10.1371/journal.pone.0337916)
+
 [Next](https://github.com/joongyang/Measurement-of-Income-Inequality/blob/main/WhatIsInequality.md)
 
